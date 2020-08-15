@@ -1,0 +1,4 @@
+accuracy,precision,recall,config,algorithm,params
+0.6975308641975309,0.5763888888888888,0.6916666666666667,"['brand', 'branding', 'design', 'creative', 'strategy', 'marketing', 'consumer', 'client', 'agency']",RF,"{'max_depth': 5, 'random_state': 0}"
+0.6944444444444444,0.5694444444444444,0.6890756302521008,"['brand', 'branding', 'design', 'creative', 'strategy', 'marketing', 'consumer', 'client', 'agency', 'brand agency']",RF,"{'max_depth': 5, 'random_state': 0}"
+0.6975308641975309,0.5763888888888888,0.6916666666666667,"['brand', 'branding', 'design', 'creative', 'strategy', 'marketing', 'consumer', 'client', 'agency']",RF,"{'max_depth': 7, 'random_state': 0}"
